@@ -1,0 +1,5 @@
+/config.json
+/client_roster.xlsx
+invoices_*/
+__pycache__/
+*.pyc

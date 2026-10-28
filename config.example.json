@@ -1,0 +1,18 @@
+{
+  "company": {
+    "name": "Acme Workspaces",
+    "address_line_1": "12 Example Road, Business District,",
+    "address_line_2": "Your City, Your Country.",
+    "phone": "+00 000 0000000",
+    "email": "billing@example.com",
+    "brand_color": "#2C4D8F",
+    "tint_color": "#EDF1F8",
+    "currency": "Rs"
+  },
+  "billing": {
+    "untaxed_share": 0.8,
+    "tax_rate": 0.16,
+    "untaxed_invoice_label": "Rental",
+    "taxed_invoice_label": "Services"
+  }
+}
